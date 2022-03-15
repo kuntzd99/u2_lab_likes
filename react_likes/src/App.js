@@ -1,4 +1,5 @@
 import Likes from './components/Likes'
+import LikeTotal from './components/LikeTotal'
 import './App.css'
 
 function App() {
